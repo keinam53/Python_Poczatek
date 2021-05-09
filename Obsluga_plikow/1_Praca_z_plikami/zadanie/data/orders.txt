@@ -1,0 +1,16 @@
+
+--------------------
+Zamówienie z³o¿one przez: Mariusz Baran
+O ³¹cznej wartoœci: 70 PLN
+Zamówione produkty:
+	Nazwa: M³otek | Kategoria: Narzêdzia | Cena: 58 PLN/szt x 1
+	Nazwa: Chleb | Kategoria: Jedzonko | Cena: 12 PLN/szt x 1
+
+--------------------
+--------------------
+Zamówienie z³o¿one przez: Mariusz Baran
+O ³¹cznej wartoœci: 126 PLN
+Zamówione produkty:
+	Nazwa: Chleb | Kategoria: Jedzonko | Cena: 63 PLN/szt x 2
+
+--------------------
